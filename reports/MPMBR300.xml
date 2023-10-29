@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RETURN>
+  <HEADER>
+      <BANKCODE>90012</BANKCODE>
+      <BANKNAME>AKWA SAVINGS AND LOANS LTD</BANKNAME>
+      <RETURNCODE>MPMBR300</RETURNCODE>
+      <RETURNNAME>STATEMENT OF FINANCIAL POSITION</RETURNNAME>
+      <PERIODFROM>01/12/2014</PERIODFROM>
+      <PERIODEND>31/12/2014</PERIODEND>
+      <VER>ORIG</VER>
+      <SIGNED/>
+      <LNG>en_US</LNG>
+  </HEADER>
+  <BODY>
+  <ITEMS_INFO>
+      <ITEM_CODE>10110</ITEM_CODE>
+      <ITEM_DESC>Notes</ITEM_DESC>
+      <AMOUNT>11034844.19</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10120</ITEM_CODE>
+      <ITEM_DESC>Coins</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10130</ITEM_CODE>
+      <ITEM_DESC>TOTAL CASH</ITEM_DESC>
+      <AMOUNT>11034844.19</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10160</ITEM_CODE>
+      <ITEM_DESC>Cash Reserve Requirement</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10170</ITEM_CODE>
+      <ITEM_DESC>Current Accounts</ITEM_DESC>
+      <AMOUNT>199290.78</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10180</ITEM_CODE>
+      <ITEM_DESC>Others (Specify MPMBR 302)</ITEM_DESC>
+      <AMOUNT>250000.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10190</ITEM_CODE>
+      <ITEM_DESC>Total from CBN/FMBN</ITEM_DESC>
+      <AMOUNT>449290.78</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10210</ITEM_CODE>
+      <ITEM_DESC>Banks in Nigeria (Specify, MPMBR 304)</ITEM_DESC>
+      <AMOUNT>167204229.07</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10220</ITEM_CODE>
+      <ITEM_DESC>Other PMBs/Financial Institutions (Specify MPMBR 306)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10225</ITEM_CODE>
+      <ITEM_DESC>Uncleared Effects</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10230</ITEM_CODE>
+      <ITEM_DESC>Total from Banks and Other PMBs/Financial Institutions</ITEM_DESC>
+      <AMOUNT>167204229.07</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10250</ITEM_CODE>
+      <ITEM_DESC>OECD Countries</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10260</ITEM_CODE>
+      <ITEM_DESC>Non-OECD Countries</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10270</ITEM_CODE>
+      <ITEM_DESC>Total from Banks outside Nigeria  (Specify MPMBR 308)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10290</ITEM_CODE>
+      <ITEM_DESC>Secured with Treasury Bills/FGN Bond</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10300</ITEM_CODE>
+      <ITEM_DESC>Unsecured with Banks</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10310</ITEM_CODE>
+      <ITEM_DESC>Total Money at Call Held with Internal Banks (Specify MPMBR 310)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10330</ITEM_CODE>
+      <ITEM_DESC>Banks in Nigeria (Specify MPMBR312)</ITEM_DESC>
+      <AMOUNT>504393972.61</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10340</ITEM_CODE>
+      <ITEM_DESC>Collateralised Placements</ITEM_DESC>
+      <AMOUNT>504393972.61</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10350</ITEM_CODE>
+      <ITEM_DESC>Unsecured Interbank Placements</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10360</ITEM_CODE>
+      <ITEM_DESC>Other PMBs/Financial Institutions (Specify MPMBR 314)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10370</ITEM_CODE>
+      <ITEM_DESC>Discount Houses (Placements &amp; Money at Call)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10380</ITEM_CODE>
+      <ITEM_DESC>Secured With Treasury Bills/FGN Bonds</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10390</ITEM_CODE>
+      <ITEM_DESC>Unsecured</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10400</ITEM_CODE>
+      <ITEM_DESC>Banks outside Nigeria:</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10410</ITEM_CODE>
+      <ITEM_DESC>OECD Countries</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10420</ITEM_CODE>
+      <ITEM_DESC>Non-OECD Countries:</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10430</ITEM_CODE>
+      <ITEM_DESC>Total Placements</ITEM_DESC>
+      <AMOUNT>504393972.61</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10440</ITEM_CODE>
+      <ITEM_DESC>Total Due From</ITEM_DESC>
+      <AMOUNT>672047492.46</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10450</ITEM_CODE>
+      <ITEM_DESC>Derivatives held for trading (Specify, MPMBR 316.1)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10460</ITEM_CODE>
+      <ITEM_DESC>Derivatives used as cash flow hedges (Specify, MPMBR 316.2)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10470</ITEM_CODE>
+      <ITEM_DESC>Derivatives used as fair value hedge (Specify, MPMBR 316.3)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10480</ITEM_CODE>
+      <ITEM_DESC>Derivative Financial Assets</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10510</ITEM_CODE>
+      <ITEM_DESC>FVTPL - designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10520</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10530</ITEM_CODE>
+      <ITEM_DESC>Treasury Bills -Available for Sale(AFS)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10540</ITEM_CODE>
+      <ITEM_DESC>Treasury Bills-Held to Maturity (HTM)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10542</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment on Non-Pledged Treasury Bills</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10544</ITEM_CODE>
+      <ITEM_DESC>Net Non-Pledged Treasury Bills</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10560</ITEM_CODE>
+      <ITEM_DESC>FVTPL -Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10570</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10580</ITEM_CODE>
+      <ITEM_DESC>Pledged Treasury Bills-AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10590</ITEM_CODE>
+      <ITEM_DESC>Pledged Treasury Bills-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10600</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment on Pledged Treasury Bills</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10610</ITEM_CODE>
+      <ITEM_DESC>Net Pledged Treasury Bills (Specify schedule MPMBR 318)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10630</ITEM_CODE>
+      <ITEM_DESC>FVTPL -Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10640</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10650</ITEM_CODE>
+      <ITEM_DESC>FGN Bonds -AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10660</ITEM_CODE>
+      <ITEM_DESC>FGN Bonds-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10662</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment on Non-Pledged FGN Bonds</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10664</ITEM_CODE>
+      <ITEM_DESC>Net Non Pledged FGN Bonds</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10680</ITEM_CODE>
+      <ITEM_DESC>FVTPL -Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10690</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10700</ITEM_CODE>
+      <ITEM_DESC>Pledged FGN Bond-AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10710</ITEM_CODE>
+      <ITEM_DESC>Pledged FGN Bonds-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10720</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment on Pledged FGN Bonds</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10730</ITEM_CODE>
+      <ITEM_DESC>Net Pledged FGN Bonds (Specify schedule MPMBR 320)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10750</ITEM_CODE>
+      <ITEM_DESC>FVTPL -Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10760</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10770</ITEM_CODE>
+      <ITEM_DESC>State Government Bonds-AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10780</ITEM_CODE>
+      <ITEM_DESC>State Government Bonds-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10800</ITEM_CODE>
+      <ITEM_DESC>FVTPL -Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10810</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10820</ITEM_CODE>
+      <ITEM_DESC>Pledged State Government Bond-AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10830</ITEM_CODE>
+      <ITEM_DESC>Pledged State Government Bonds-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10840</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment on State Government Bonds</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10850</ITEM_CODE>
+      <ITEM_DESC>Total Eligible State Govt Bonds (memo)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10860</ITEM_CODE>
+      <ITEM_DESC>Net State Government Bonds (Specify schedule MPMBR 322)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10880</ITEM_CODE>
+      <ITEM_DESC>FVTPL -Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10890</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10900</ITEM_CODE>
+      <ITEM_DESC>Local Government Bonds-AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10910</ITEM_CODE>
+      <ITEM_DESC>Local Government Bonds-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10930</ITEM_CODE>
+      <ITEM_DESC>FVTPL -Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10940</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10950</ITEM_CODE>
+      <ITEM_DESC>Pledged Local Government Bonds-AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10960</ITEM_CODE>
+      <ITEM_DESC>Pledged Local Government Bonds-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10970</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment on Local Government Bonds</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>10980</ITEM_CODE>
+      <ITEM_DESC>Net Local Government Bonds (Specify schedule MPMBR 324)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11000</ITEM_CODE>
+      <ITEM_DESC>FVTPL -Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11010</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11020</ITEM_CODE>
+      <ITEM_DESC>Corporate Bonds-AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11030</ITEM_CODE>
+      <ITEM_DESC>Corporate Bonds-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11050</ITEM_CODE>
+      <ITEM_DESC>FVTPL -Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11060</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11070</ITEM_CODE>
+      <ITEM_DESC>Pledged Corporate Bonds-AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11080</ITEM_CODE>
+      <ITEM_DESC>Pledged Corporate Bonds-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11090</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment on Corporate Bonds</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11100</ITEM_CODE>
+      <ITEM_DESC>Net Corporate Bonds (Specify schedule MPMBR 326)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11120</ITEM_CODE>
+      <ITEM_DESC>FVTPL -Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11130</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11140</ITEM_CODE>
+      <ITEM_DESC>Other Bonds-AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11150</ITEM_CODE>
+      <ITEM_DESC>Other Bonds-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11170</ITEM_CODE>
+      <ITEM_DESC>FVTPL -Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11180</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11190</ITEM_CODE>
+      <ITEM_DESC>Pledged Other Bonds-AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11200</ITEM_CODE>
+      <ITEM_DESC>Pledged Other Bonds-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11210</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment on Other Bonds</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11220</ITEM_CODE>
+      <ITEM_DESC>Net Other Bonds (Specify schedule MPMBR 328)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11240</ITEM_CODE>
+      <ITEM_DESC>Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11250</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11260</ITEM_CODE>
+      <ITEM_DESC>Treasury Certificates-AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11270</ITEM_CODE>
+      <ITEM_DESC>Treasury Certificates-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11272</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment on Non-Pledged Treasury Certificates</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11274</ITEM_CODE>
+      <ITEM_DESC>Net Non-Pledged Treasury Certficates</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11290</ITEM_CODE>
+      <ITEM_DESC>FVTPL -Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11300</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11310</ITEM_CODE>
+      <ITEM_DESC>Pledged Treasury Certificates-AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11320</ITEM_CODE>
+      <ITEM_DESC>Pledged Treasury Certificates-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11330</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment on Pledged Treasury Certificates</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11340</ITEM_CODE>
+      <ITEM_DESC>Net Pledged Treasury Certificates (Specify schedule MPMBR 330)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11360</ITEM_CODE>
+      <ITEM_DESC>FVTPL -Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11370</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11380</ITEM_CODE>
+      <ITEM_DESC>CBN Registered Certificates-AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11390</ITEM_CODE>
+      <ITEM_DESC>CBN Registered Certificates-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11392</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment on Non-Pledged CBN Registered Certificates</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11394</ITEM_CODE>
+      <ITEM_DESC>Net Non-Pledged CBN Registered Certficates</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11410</ITEM_CODE>
+      <ITEM_DESC>FVTPL -Designated on initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11420</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11430</ITEM_CODE>
+      <ITEM_DESC>Pledged CBN Registered Certificates-AFS</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11440</ITEM_CODE>
+      <ITEM_DESC>Pledged CBN Registered Certificates-HTM</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11450</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment on Pledged CBN Registered Certificates</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11460</ITEM_CODE>
+      <ITEM_DESC>Net Pledged CBN Registered Certificates (Specify schedule MPMBR 332) ------- ATTN Comparison Rules</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11470</ITEM_CODE>
+      <ITEM_DESC>Total Investments</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11500</ITEM_CODE>
+      <ITEM_DESC>Under 18 months to Maturity</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11510</ITEM_CODE>
+      <ITEM_DESC>Over 18 months to Maturity</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11515</ITEM_CODE>
+      <ITEM_DESC>Impairment on Negotiable Certificate of Deposits</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11520</ITEM_CODE>
+      <ITEM_DESC>Net Negotiable Certificates of Deposits</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11530</ITEM_CODE>
+      <ITEM_DESC>Non-Negotiable Certificates of Deposits</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11540</ITEM_CODE>
+      <ITEM_DESC>Impairment on Certificate of Deposits</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11545</ITEM_CODE>
+      <ITEM_DESC>Net Non-negotiable Certificates of Deposits</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11550</ITEM_CODE>
+      <ITEM_DESC>Total Certificates of Deposits Held (Schedule MPMBR 334)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11570</ITEM_CODE>
+      <ITEM_DESC>Payable from banks in Nigeria:</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11580</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment from banks in nigeria</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11590</ITEM_CODE>
+      <ITEM_DESC>Net Payable from banks in Nigeria</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11600</ITEM_CODE>
+      <ITEM_DESC>Payable from banks outside Nigeria:</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11610</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment from banks outside nigeria</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11620</ITEM_CODE>
+      <ITEM_DESC>Net Payable from banks outside Nigeria:</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11630</ITEM_CODE>
+      <ITEM_DESC>From Non Bank Sources</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11640</ITEM_CODE>
+      <ITEM_DESC>Less: Impairment from Non Bank Sources</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11650</ITEM_CODE>
+      <ITEM_DESC>Net From Non Bank Sources</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11660</ITEM_CODE>
+      <ITEM_DESC>Net Total Bills Discounted</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11680</ITEM_CODE>
+      <ITEM_DESC>Banker&apos;s Acceptances</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11690</ITEM_CODE>
+      <ITEM_DESC>Impairment on Banker&apos;s Acceptances</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11700</ITEM_CODE>
+      <ITEM_DESC>Net Banker&apos;s Acceptances</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11710</ITEM_CODE>
+      <ITEM_DESC>Commercial Papers</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11720</ITEM_CODE>
+      <ITEM_DESC>Impairment on Commercial Papers</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11730</ITEM_CODE>
+      <ITEM_DESC>Net Commercial Papers</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11740</ITEM_CODE>
+      <ITEM_DESC>Promissory Notes</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11750</ITEM_CODE>
+      <ITEM_DESC>Impairment on Promissory Notes</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11760</ITEM_CODE>
+      <ITEM_DESC>Net Promissory Notes</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11770</ITEM_CODE>
+      <ITEM_DESC>Others</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11780</ITEM_CODE>
+      <ITEM_DESC>Impairment on Other Financial Assets</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11790</ITEM_CODE>
+      <ITEM_DESC>Net Other Financial Assets Held</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11810</ITEM_CODE>
+      <ITEM_DESC>Residential Mortgage Loans</ITEM_DESC>
+      <AMOUNT>1609537573.74</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11820</ITEM_CODE>
+      <ITEM_DESC>Real Estate Construction Loans</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11830</ITEM_CODE>
+      <ITEM_DESC>Others  (Specify, MPMBR 336)</ITEM_DESC>
+      <AMOUNT>2190798000.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11840</ITEM_CODE>
+      <ITEM_DESC>Total Loans and Receivables (Specify, MPMBR 338)</ITEM_DESC>
+      <AMOUNT>3800335573.74</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11850</ITEM_CODE>
+      <ITEM_DESC>Impairment on Loans and Receivables / Leases (Specify, MPMBR 342)</ITEM_DESC>
+      <AMOUNT>366192597.12</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11860</ITEM_CODE>
+      <ITEM_DESC>Net Loans and Receivables / Leases</ITEM_DESC>
+      <AMOUNT>3434142976.62</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11890</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>10000000.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11900</ITEM_CODE>
+      <ITEM_DESC>Designated at initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11910</ITEM_CODE>
+      <ITEM_DESC>Available for sale</ITEM_DESC>
+      <AMOUNT>606691025.01</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11920</ITEM_CODE>
+      <ITEM_DESC>Held to Maturity</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11940</ITEM_CODE>
+      <ITEM_DESC>Held for trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11950</ITEM_CODE>
+      <ITEM_DESC>Designated at initial recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11960</ITEM_CODE>
+      <ITEM_DESC>Measured at cost</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11970</ITEM_CODE>
+      <ITEM_DESC>Available for sale</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11980</ITEM_CODE>
+      <ITEM_DESC>Impairment on Quoted and Unquoted Investment</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>11990</ITEM_CODE>
+      <ITEM_DESC>Net Quoted and Unquoted Investment (MPMBR 346)</ITEM_DESC>
+      <AMOUNT>616691025.01</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12020</ITEM_CODE>
+      <ITEM_DESC>i. Held for Trading</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12030</ITEM_CODE>
+      <ITEM_DESC>ii. Designated Upon Initial Recognition</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12040</ITEM_CODE>
+      <ITEM_DESC>b) Available For Sale</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12050</ITEM_CODE>
+      <ITEM_DESC>c) Held to Maturity</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12060</ITEM_CODE>
+      <ITEM_DESC>Impairment on Debenture</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12070</ITEM_CODE>
+      <ITEM_DESC>Net Debentures</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12080</ITEM_CODE>
+      <ITEM_DESC>Investment in Subsidiaries / Associates</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12090</ITEM_CODE>
+      <ITEM_DESC>Impairment</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12100</ITEM_CODE>
+      <ITEM_DESC>Net Investment in Subsidiaries / Associates (Specify, MPMBR 348)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12150</ITEM_CODE>
+      <ITEM_DESC>Other Assets</ITEM_DESC>
+      <AMOUNT>116293526.82</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12160</ITEM_CODE>
+      <ITEM_DESC>Impairment on Other Assets</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12170</ITEM_CODE>
+      <ITEM_DESC>Other  Assets Net (Specify, MPMBR 350)</ITEM_DESC>
+      <AMOUNT>116293526.82</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12180</ITEM_CODE>
+      <ITEM_DESC>Intangible Assets</ITEM_DESC>
+      <AMOUNT>189615412.50</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12190</ITEM_CODE>
+      <ITEM_DESC>Impairment on Intangible Assets</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12200</ITEM_CODE>
+      <ITEM_DESC>Intangible Assets Net (MPMBR 352)</ITEM_DESC>
+      <AMOUNT>189615412.50</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12210</ITEM_CODE>
+      <ITEM_DESC>Total Other Assets</ITEM_DESC>
+      <AMOUNT>305908939.32</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12220</ITEM_CODE>
+      <ITEM_DESC>Non- Current Asset/Disposal Group held for Sales</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12230</ITEM_CODE>
+      <ITEM_DESC>Impairment on Non- Current Asset/Disposal Group held for Sales</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12240</ITEM_CODE>
+      <ITEM_DESC>Net Non- Current Asset/Disposal Group held for Sales (Specify MPMBR 354)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12270</ITEM_CODE>
+      <ITEM_DESC>Freehold</ITEM_DESC>
+      <AMOUNT>650971148.70</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12280</ITEM_CODE>
+      <ITEM_DESC>Impairment</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12290</ITEM_CODE>
+      <ITEM_DESC>Depreciation</ITEM_DESC>
+      <AMOUNT>46916202.79</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12300</ITEM_CODE>
+      <ITEM_DESC>Leasehold</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12310</ITEM_CODE>
+      <ITEM_DESC>Depreciation</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12320</ITEM_CODE>
+      <ITEM_DESC>Impairment</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12330</ITEM_CODE>
+      <ITEM_DESC>Net Bank Premises</ITEM_DESC>
+      <AMOUNT>604054945.91</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12340</ITEM_CODE>
+      <ITEM_DESC>Furniture &amp; Fixtures</ITEM_DESC>
+      <AMOUNT>65413887.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12350</ITEM_CODE>
+      <ITEM_DESC>Impairment</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12360</ITEM_CODE>
+      <ITEM_DESC>Depreciation</ITEM_DESC>
+      <AMOUNT>74369686.46</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12370</ITEM_CODE>
+      <ITEM_DESC>Net Furniture &amp; Fixtures</ITEM_DESC>
+      <AMOUNT>-8955799.46</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12380</ITEM_CODE>
+      <ITEM_DESC>Motor Vehicles</ITEM_DESC>
+      <AMOUNT>93429170.93</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12390</ITEM_CODE>
+      <ITEM_DESC>Impairment</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12400</ITEM_CODE>
+      <ITEM_DESC>Depreciation</ITEM_DESC>
+      <AMOUNT>85889954.26</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12410</ITEM_CODE>
+      <ITEM_DESC>Net Motor Vehicles</ITEM_DESC>
+      <AMOUNT>7539216.67</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12420</ITEM_CODE>
+      <ITEM_DESC>Office Equipment</ITEM_DESC>
+      <AMOUNT>100104126.57</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12430</ITEM_CODE>
+      <ITEM_DESC>Impairment</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12440</ITEM_CODE>
+      <ITEM_DESC>Depreciation</ITEM_DESC>
+      <AMOUNT>83422858.21</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12450</ITEM_CODE>
+      <ITEM_DESC>Net Office Equipment</ITEM_DESC>
+      <AMOUNT>16681268.36</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12460</ITEM_CODE>
+      <ITEM_DESC>Other Property Plants and Equipment</ITEM_DESC>
+      <AMOUNT>55040327.62</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12470</ITEM_CODE>
+      <ITEM_DESC>Impairment</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12480</ITEM_CODE>
+      <ITEM_DESC>Depreciation</ITEM_DESC>
+      <AMOUNT>58047012.71</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12490</ITEM_CODE>
+      <ITEM_DESC>Net Other Property Plants and Equipment</ITEM_DESC>
+      <AMOUNT>-3006685.09</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12500</ITEM_CODE>
+      <ITEM_DESC>Net Property Plant and Equipment (Specify schedule MPMBR 356)</ITEM_DESC>
+      <AMOUNT>616312946.39</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>12510</ITEM_CODE>
+      <ITEM_DESC>TOTAL ASSETS</ITEM_DESC>
+      <AMOUNT>5656138223.99</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20110</ITEM_CODE>
+      <ITEM_DESC>Demand (Mortgage Focused)</ITEM_DESC>
+      <AMOUNT>1086554058.62</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20120</ITEM_CODE>
+      <ITEM_DESC>Savings</ITEM_DESC>
+      <AMOUNT>606636320.19</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20130</ITEM_CODE>
+      <ITEM_DESC>Time/Term</ITEM_DESC>
+      <AMOUNT>682753919.35</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20140</ITEM_CODE>
+      <ITEM_DESC>Federal Government</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20150</ITEM_CODE>
+      <ITEM_DESC>State Government</ITEM_DESC>
+      <AMOUNT>576610.90</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20160</ITEM_CODE>
+      <ITEM_DESC>Local Government</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20170</ITEM_CODE>
+      <ITEM_DESC>Others (Specify, MPMBR 358)</ITEM_DESC>
+      <AMOUNT>25850475.88</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20180</ITEM_CODE>
+      <ITEM_DESC>Total Deposits</ITEM_DESC>
+      <AMOUNT>2402371384.94</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20200</ITEM_CODE>
+      <ITEM_DESC>Banks in Nigeria</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20210</ITEM_CODE>
+      <ITEM_DESC>Discount Houses</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20220</ITEM_CODE>
+      <ITEM_DESC>Total Money At Call (Specify, MPMBR 366)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20240</ITEM_CODE>
+      <ITEM_DESC>Banks  (Specify, MPMBR 368)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20250</ITEM_CODE>
+      <ITEM_DESC>Other PMBs / Financial Institutions (Specify, MPMBR 370)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20260</ITEM_CODE>
+      <ITEM_DESC>Discount Houses</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20270</ITEM_CODE>
+      <ITEM_DESC>Total Placements from Banks/Other PMBs/Financial Institutions</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20290</ITEM_CODE>
+      <ITEM_DESC>Central Bank (Current Account)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20300</ITEM_CODE>
+      <ITEM_DESC>Other Banks in Nigeria (Schedule, MPMBR 372)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20310</ITEM_CODE>
+      <ITEM_DESC>Other PMBs / Financial Institutions (Specify, MPMBR 374)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20320</ITEM_CODE>
+      <ITEM_DESC>Other Banks Outside Nigeria (Specify, MPMBR 376)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20330</ITEM_CODE>
+      <ITEM_DESC>Others (Specify, MPMBR 378)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20340</ITEM_CODE>
+      <ITEM_DESC>Total Due To</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20360</ITEM_CODE>
+      <ITEM_DESC>Negotiable within 18 Months</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20370</ITEM_CODE>
+      <ITEM_DESC>Negotiable over 18 Months</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20380</ITEM_CODE>
+      <ITEM_DESC>Total Negotiable Certificates of Deposits</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20390</ITEM_CODE>
+      <ITEM_DESC>Non-Negotiable Certificates of Deposits</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20400</ITEM_CODE>
+      <ITEM_DESC>Total Certificates of Deposits</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20410</ITEM_CODE>
+      <ITEM_DESC>Derivatives held for trading (Specify, MPMBR 380.1)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20420</ITEM_CODE>
+      <ITEM_DESC>Derivatives used as cash flow hedges (Specify, MPMBR 380.2)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20430</ITEM_CODE>
+      <ITEM_DESC>Derivatives used as fair value hedge (Specify, MPMBR 380.3)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20440</ITEM_CODE>
+      <ITEM_DESC>Derivative Financial Liabilities</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20450</ITEM_CODE>
+      <ITEM_DESC>OTHER LIABILITIES (Specify, MPMBR 382)</ITEM_DESC>
+      <AMOUNT>161086730.25</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20470</ITEM_CODE>
+      <ITEM_DESC>Banks in Nigeria (MPMBR 384)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20480</ITEM_CODE>
+      <ITEM_DESC>Foreign Loans (MPMBR 386)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20490</ITEM_CODE>
+      <ITEM_DESC>National Housing Fund</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20500</ITEM_CODE>
+      <ITEM_DESC>Others (Specify, MPMBR 388)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20510</ITEM_CODE>
+      <ITEM_DESC>Total Long Term Loans</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20530</ITEM_CODE>
+      <ITEM_DESC>Under 1 Year maturity</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20540</ITEM_CODE>
+      <ITEM_DESC>1-3 Years Maturity</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20550</ITEM_CODE>
+      <ITEM_DESC>3-7 Years Maturity</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20560</ITEM_CODE>
+      <ITEM_DESC>Over 7 years Maturity</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20570</ITEM_CODE>
+      <ITEM_DESC>Total Debentures/Loans Stock</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20580</ITEM_CODE>
+      <ITEM_DESC>Redeemable Preference Shares</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20600</ITEM_CODE>
+      <ITEM_DESC>Authorised Capital</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20620</ITEM_CODE>
+      <ITEM_DESC>Ordinary Shares</ITEM_DESC>
+      <AMOUNT>3520000000.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20630</ITEM_CODE>
+      <ITEM_DESC>Irredeemable Preference Shares</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20640</ITEM_CODE>
+      <ITEM_DESC>Total Capital</ITEM_DESC>
+      <AMOUNT>3520000000.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20660</ITEM_CODE>
+      <ITEM_DESC>Statutory Reserve</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20670</ITEM_CODE>
+      <ITEM_DESC>Share Premium</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20680</ITEM_CODE>
+      <ITEM_DESC>Retained Earnings</ITEM_DESC>
+      <AMOUNT>-471278617.48</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20690</ITEM_CODE>
+      <ITEM_DESC>Other Comprehensive Income (Audited)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20700</ITEM_CODE>
+      <ITEM_DESC>Non-Distributable Reserve</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20710</ITEM_CODE>
+      <ITEM_DESC>Other Reserves  (Specify, MPMBR 390)</ITEM_DESC>
+      <AMOUNT>43958726.28</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20720</ITEM_CODE>
+      <ITEM_DESC>Total Reserves</ITEM_DESC>
+      <AMOUNT>-427319891.20</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20730</ITEM_CODE>
+      <ITEM_DESC>Current Year Loss - Unaudited</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20740</ITEM_CODE>
+      <ITEM_DESC>Other Comprehensive Loss - Unaudited Current Year Loss</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20750</ITEM_CODE>
+      <ITEM_DESC>Total Capital and Reserves</ITEM_DESC>
+      <AMOUNT>3092680108.80</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20760</ITEM_CODE>
+      <ITEM_DESC>TOTAL LIABILITIES</ITEM_DESC>
+      <AMOUNT>5656138223.99</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20780</ITEM_CODE>
+      <ITEM_DESC>Direct credit substitutes, e.g. general guarantees of indebtedness (including standby letters of credit serving as financial guarantees for loans and securities) and acceptances (including endorsements with the character of acceptances)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20790</ITEM_CODE>
+      <ITEM_DESC>Certain transaction-related contingent items (e.g. performance bonds, bid bonds, warranties and standby letters of credit related to particular transactions)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20800</ITEM_CODE>
+      <ITEM_DESC>Short-term self liquidating trade-related contingencies (such as documentary credits collateralised by the underlying shipments)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20810</ITEM_CODE>
+      <ITEM_DESC>Forward asset purchase, forward deposits and partly paid shares and securities, which represent commitments with certain drawn down</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20820</ITEM_CODE>
+      <ITEM_DESC>Note issuance facilities and revolving underwriting facilities</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20830</ITEM_CODE>
+      <ITEM_DESC>Other commitments (e.g. formal standby facilities and credit lines) with an original maturity of over one year</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20840</ITEM_CODE>
+      <ITEM_DESC>Similar commitments with an original maturity of up to one year, or which can be unconditionally cancelled at any time</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>20850</ITEM_CODE>
+      <ITEM_DESC>Contingent Liabilities (Specify MPMBR 392)</ITEM_DESC>
+      <AMOUNT>0.00</AMOUNT>
+  </ITEMS_INFO>
+</BODY>
+</RETURN>

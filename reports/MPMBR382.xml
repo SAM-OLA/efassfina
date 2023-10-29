@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RETURN>
+  <HEADER>
+      <BANKCODE>90012</BANKCODE>
+      <BANKNAME>AKWA SAVINGS AND LOANS LTD</BANKNAME>
+      <RETURNCODE>MPMBR382</RETURNCODE>
+      <RETURNNAME>SCHEDULE OF OTHER LIABILITIES</RETURNNAME>
+      <PERIODFROM>01/12/2014</PERIODFROM>
+      <PERIODEND>31/12/2014</PERIODEND>
+      <VER>ORIG</VER>
+      <SIGNED/>
+      <LNG>en_US</LNG>
+  </HEADER>
+  <BODY>
+  <ITEMS_INFO>
+      <ITEM_CODE>38205</ITEM_CODE>
+      <ITEM_DESC>Account Payable</ITEM_DESC>
+      <AMOUNT>63172222.96</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38210</ITEM_CODE>
+      <ITEM_DESC>Unearned Income</ITEM_DESC>
+      <AMOUNT>1803299.70</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38215</ITEM_CODE>
+      <ITEM_DESC>Interest Accrued  Not  Paid</ITEM_DESC>
+      <AMOUNT>3591261.99</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38220</ITEM_CODE>
+      <ITEM_DESC>Bankers Payment</ITEM_DESC>
+      <AMOUNT>-0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38225</ITEM_CODE>
+      <ITEM_DESC>Uncleared effect/transit items</ITEM_DESC>
+      <AMOUNT>-0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38235</ITEM_CODE>
+      <ITEM_DESC>Profit for the period</ITEM_DESC>
+      <AMOUNT>29592857.73</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38240</ITEM_CODE>
+      <ITEM_DESC>Other Comprehensive Income for the period-Unaudited</ITEM_DESC>
+      <AMOUNT>-0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38245</ITEM_CODE>
+      <ITEM_DESC>Provision for Losses on contingent liabilities items</ITEM_DESC>
+      <AMOUNT>-0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38250</ITEM_CODE>
+      <ITEM_DESC>Provision For Taxation</ITEM_DESC>
+      <AMOUNT>13464293.12</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38255</ITEM_CODE>
+      <ITEM_DESC>Deferred Taxation</ITEM_DESC>
+      <AMOUNT>-0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38260</ITEM_CODE>
+      <ITEM_DESC>Provision for other losses</ITEM_DESC>
+      <AMOUNT>-0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38265</ITEM_CODE>
+      <ITEM_DESC>Dividend payable</ITEM_DESC>
+      <AMOUNT>-0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38270</ITEM_CODE>
+      <ITEM_DESC>Interbranch Liabilities</ITEM_DESC>
+      <AMOUNT>-0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38275</ITEM_CODE>
+      <ITEM_DESC>Suspense Account</ITEM_DESC>
+      <AMOUNT>4882139.36</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38280</ITEM_CODE>
+      <ITEM_DESC>Deposit for shares</ITEM_DESC>
+      <AMOUNT>9711500.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38285</ITEM_CODE>
+      <ITEM_DESC>Miscellaneous</ITEM_DESC>
+      <AMOUNT>34869155.39</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38290</ITEM_CODE>
+      <ITEM_DESC>Domestic N</ITEM_DESC>
+      <AMOUNT>-0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38295</ITEM_CODE>
+      <ITEM_DESC>Foreign  N</ITEM_DESC>
+      <AMOUNT>-0.00</AMOUNT>
+  </ITEMS_INFO>
+  <ITEMS_INFO>
+      <ITEM_CODE>38300</ITEM_CODE>
+      <ITEM_DESC>TOTAL</ITEM_DESC>
+      <AMOUNT>161086730.25</AMOUNT>
+  </ITEMS_INFO>
+</BODY>
+</RETURN>
